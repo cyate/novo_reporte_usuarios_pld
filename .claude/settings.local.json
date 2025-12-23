@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l \"c:\\\\Users\\\\cyate\\\\eclipse-workspace\\\\novo_reporte_usuarios_pld\\\\src\\\\main\\\\java\\\\com\\\\novo\"/**/*.java)"
+    ]
+  }
+}
